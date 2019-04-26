@@ -1,4 +1,4 @@
-*** Settings ***
+﻿*** Settings ***
 Resource  ../Resources/readingCredentials.robot
 Resource  ../Resources/login.robot
 Resource  ../Resources/fetchingFromUrl.robot
@@ -76,6 +76,7 @@ TC_PaymentButton360_Moneta_HappyPath
     Choose the bank  0600
 
 #    ZDE JE POTREBA SE PRIHLASIT PRES PROXY
+#    ZDE JE ZMENA KOMENTARE
 
 
     Check amount  ${amount}
