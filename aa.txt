@@ -5,7 +5,7 @@ Local date is [2019-03-02 20:17:22.105]
  Volume Serial Number is 74AD-2F1E
 
  Directory of C:\_git\GIT_JENKINS
-
+#AAAA
 02.03.2019  20:16    <DIR>          .
 02.03.2019  20:16    <DIR>          ..
 05.11.2018  14:11                75 .gitignore
